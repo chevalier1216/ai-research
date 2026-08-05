@@ -10,7 +10,7 @@ $required = @(
     @{ Path = 'research-harness\templates\progress-update.md'; Terms = @('實際案例 4W 概要', '不是研究作業日誌', '詳細研究內文', '已驗證資料來源') },
     @{ Path = 'research-harness\templates\rework-register.md'; Terms = @('不是新研究階段', '最多三項缺口', '原審核') },
     @{ Path = 'research-harness\templates\research-plan.md'; Terms = @('派工登錄', '獨立工作包', '資料及工具安全範圍', '閘門結果') },
-    @{ Path = 'research-harness\流程規格\研究代理治理規格.md'; Terms = @('代理啟動閘門', '固定五階段', '最大值為兩個', '既有角色無法完成', '資料及工具安全範圍', '單次補證', '技能使用矩陣') },
+    @{ Path = 'research-harness\流程規格\研究代理治理規格.md'; Terms = @('代理啟動閘門', '固定五階段', '最大值為兩個', '既有角色無法完成', '資料及工具安全範圍', '單次補證', '技能使用矩陣', 'superpowers:writing-plans', 'superpowers:verification-before-completion') },
     @{ Path = 'research-harness\reports\2026-08-05-研究流程治理修正報告.md'; Terms = @('修正目的', '修正行動', '修正結果', '修正後的預期行為', '已驗證') }
 )
 

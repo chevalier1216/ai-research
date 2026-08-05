@@ -4,6 +4,7 @@
 |---|---|---|---|---|
 | Codex multi-agent 協作 | 分工、結論交接、獨立驗證 | 內建 | 本工作區已可用 | 啟用；作為主要 orchestrator，不另引入平行 agent 框架 |
 | Google Drive / Docs connector | 產出與驗證 Google 文件 | 內建 | 本工作區已可用 | 啟用；保留原生文件與讀回驗證 |
+| Superpowers | 規劃、平行工作分派、隔離工作目錄、系統化除錯與完成前驗證 | 內建插件 | `superpowers` 技能清單與治理規格 | **啟用**；僅使用與研究階段相符的子技能。不得取代一手來源驗證、跨市場外推限制或醫療責任邊界；完整對照見「研究代理治理規格」技能使用矩陣。 |
 | OpenAI Agents SDK | 需要自建 Python research service 時的 handoff/trace/guardrail | MIT | [GitHub](https://github.com/openai/openai-agents-python) | 待導入；僅在需獨立服務時採用，避免與現有協作機制重疊 |
 | Trafilatura | 靜態網頁正文與中繼資料擷取 | Apache-2.0 | [GitHub](https://github.com/adbar/trafilatura) | 待隔離試用；適合建立可追溯證據包 |
 | MarkItDown | PDF、Office、HTML 轉 Markdown | MIT | [GitHub](https://github.com/microsoft/markitdown) | 待隔離試用；原始檔與雜湊須保留 |

@@ -20,7 +20,8 @@ $fixtureFiles = @(
 
 $negativeCases = @(
     @{ Path = 'AGENTS.md'; Required = '固定五階段'; Replacement = '固定流程' },
-    @{ Path = 'research-harness\templates\progress-update.md'; Required = '實際案例'; Replacement = '作業事項' }
+    @{ Path = 'research-harness\templates\progress-update.md'; Required = '實際案例'; Replacement = '作業事項' },
+    @{ Path = 'research-harness\流程規格\研究代理治理規格.md'; Required = 'superpowers:writing-plans'; Replacement = 'superpowers:規劃' }
 )
 
 foreach ($case in $negativeCases) {
