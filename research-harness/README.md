@@ -11,6 +11,7 @@
 ## 現有資產
 
 - `templates/`：報告、交接、進度更新格式。
+- `templates/google-docs-table-rendering.md`：Markdown 匯入 Google Docs 時的原生表格與單一日誌規範。
 - `evidence/`：可追溯的來源與主張紀錄。
 - `reports/`：已完成報告與格式範例。
 - `流程規格/研究代理治理規格.md`：固定階段、代理啟動閘門、補證上限與技能使用邊界。
